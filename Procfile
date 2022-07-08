@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT DjangoApp2.wsgi:application 
